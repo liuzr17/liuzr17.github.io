@@ -74,6 +74,11 @@ a:hover {
   text-decoration: none;
 }
 
+.no-style {
+  color: inherit; /* 继承父元素的颜色 */
+  text-decoration: inherit; /* 继承父元素的装饰 */
+}
+
 body,
 td,
 th,
