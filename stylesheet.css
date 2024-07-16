@@ -138,3 +138,15 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.imgbadge {
+  max-height: 18px;
+  max-width: 85px;
+  margin: 0px 0px 0px 0px;
+  vertical-align: middle;
+}
+
+li a {
+  text-decoration: none;
+  margin-right: 10px; /* 添加右边距使图片和文字之间有间隔 */
+}
