@@ -150,3 +150,17 @@ li a {
   text-decoration: none;
   margin-right: 10px; /* 添加右边距使图片和文字之间有间隔 */
 }
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-align {
+  text-align: left;
+  font-size: small;
+}
+.right-align {
+  text-align: right;
+  font-size: small;
+}
